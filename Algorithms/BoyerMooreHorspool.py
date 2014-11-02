@@ -1,7 +1,6 @@
 # Returns positions where pattern is found in text
 #     See http://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm for an explanation on how 
 #     this algorithm works.
-    
 #     O(n)
 
 class BoyerMooreHorspool(object):
